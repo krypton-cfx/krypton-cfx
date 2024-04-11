@@ -1,9 +1,9 @@
 
 <style>
-container{
-    background-image: url("trees.png");
-    background-color: #cccccc;
-}
+  container{
+      background-image: url("trees.png");
+      background-color: #cccccc;
+  }
 </style>
 
 <div class='container'>
