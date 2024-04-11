@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="logo.svg" alt="Click to see the source" width="30%">
+</p>
+
 <!--
 **krypton-cfx/krypton-cfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
